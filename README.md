@@ -5,7 +5,7 @@ This project uses [Facebook Prophet](https://facebook.github.io/prophet/) to for
 It builds upon my earlier project on anomaly detection by taking a **proactive, forecast-driven approach** to smart automation.
 
 Based on my technical blog:  
-[Forecasting Equipment Failures Using Prophet](https://medium.com/@myakalarajkumar1998)
+[Forecasting Equipment Failures Using Prophet](https://medium.com/@myakalarajkumar1998/forecasting-equipment-failures-using-facebook-prophet-89a2a2548103)
 
 ---
 
